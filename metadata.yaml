@@ -5,12 +5,17 @@ contributor:
     agent_name: Kennedy, Harry O.
     gutenberg_agent_id: '52784'
     url: http://www.gutenberg.org/2009/agents/52784
+covers:
+- cover_type: archival
+  image_path: 64184-h/images/cover.jpg
 creator:
   author:
     agent_name: Cass, de Lysle F.
     gutenberg_agent_id: '52783'
     url: http://www.gutenberg.org/2009/agents/52783
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64184#The-Airship-Boys-in-the-Great-War
 gutenberg_issued: '2020-12-31'
 gutenberg_type: Text
 identifiers:
